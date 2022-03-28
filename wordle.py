@@ -26,3 +26,10 @@ print("This program is based off of the original Wordle game, by Josh Wardle. Yo
 print("https://www.nytimes.com/games/wordle/index.html")
 print()
 input("Start game? (y/n): ")
+
+# may be used
+def main():
+    print("whale")
+
+if __name__ == "__main__":
+    main()
